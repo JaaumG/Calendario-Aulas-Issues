@@ -2,7 +2,7 @@
 name: Solicitação de Funcionalidade
 about: Sugira uma ideia de funcionalidade para o projeto
 title: "[FEATURE] - ..."
-labels: ''
+labels: feature
 assignees: JaaumG
 
 ---
